@@ -14,9 +14,9 @@ import java.util.Properties;
 import java.util.prefs.Preferences;
 
 /**
- * Install and verify license.
+ * gm test
+ * @author ming
  *
- * @author BOUCHAAR tareq
  */
 public class LicenseController {
 
