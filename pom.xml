@@ -17,7 +17,6 @@
             <version>1.32</version>
         </dependency>
     </dependencies>
-
     <repositories>
         <repository>
             <url>http://repository.primefaces.org/</url>
